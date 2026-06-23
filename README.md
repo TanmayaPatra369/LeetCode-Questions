@@ -3,6 +3,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/TanmayaPatra369/LeetCode-Questions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TanmayaPatra369/LeetCode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/TanmayaPatra369/LeetCode-Questions/tree/master/1189-maximum-number-of-balloons) |
 ## String
@@ -21,6 +22,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/TanmayaPatra369/LeetCode-Questions/tree/master/0001-two-sum) |
 | [1833-maximum-ice-cream-bars](https://github.com/TanmayaPatra369/LeetCode-Questions/tree/master/1833-maximum-ice-cream-bars) |
 ## Greedy
 |  |
