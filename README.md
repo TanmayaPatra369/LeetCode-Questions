@@ -36,4 +36,12 @@
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/TanmayaPatra369/LeetCode-Questions/tree/master/1833-maximum-ice-cream-bars) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/TanmayaPatra369/LeetCode-Questions/tree/master/3699-number-of-zigzag-arrays-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/TanmayaPatra369/LeetCode-Questions/tree/master/3699-number-of-zigzag-arrays-i) |
 <!---LeetCode Topics End-->
