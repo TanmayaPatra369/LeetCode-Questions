@@ -1,7 +1,7 @@
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Hash Table
-|  |
+| Hash Table |
 | ------- |
 | [0001-two-sum](https://github.com/TanmayaPatra369/LeetCode-Questions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TanmayaPatra369/LeetCode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
