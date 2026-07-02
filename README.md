@@ -34,6 +34,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/TanmayaPatra369/LeetCode-Questions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/TanmayaPatra369/LeetCode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/TanmayaPatra369/LeetCode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/TanmayaPatra369/LeetCode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/TanmayaPatra369/LeetCode-Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/TanmayaPatra369/LeetCode-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/TanmayaPatra369/LeetCode-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -89,6 +90,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/TanmayaPatra369/LeetCode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/TanmayaPatra369/LeetCode-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
 |  |
@@ -97,13 +99,23 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/TanmayaPatra369/LeetCode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/TanmayaPatra369/LeetCode-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
 |  |
 | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/TanmayaPatra369/LeetCode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/TanmayaPatra369/LeetCode-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/TanmayaPatra369/LeetCode-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Binary Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/TanmayaPatra369/LeetCode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/TanmayaPatra369/LeetCode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
